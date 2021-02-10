@@ -1,0 +1,18 @@
+.subnav {
+  display: flex;
+  background-color: #106A9F;
+  padding: 15px 30px;
+  ul {
+    margin: 0;
+  }
+  .btn {
+      font-size: 12px;
+      background-color: #106A9F !important;
+      border: 1px solid #ffffff78;
+      letter-spacing: 0.05rem;
+      padding: 7px 15px;
+      border-radius: 20px;
+      color: $white;
+      margin-right: 15px;
+  }
+}
